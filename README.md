@@ -4,6 +4,11 @@ SAVO (Sound Analysis Video Output) is a powerful, Python-based tool that automat
 
 The core of SAVO is its ability to combine traditional musicological analysis with AI-generated commentary. Using the `librosa` library, the program extracts key audio features such as RMS energy, spectral centroid, zero-crossing rate, and MFCCs. This data is then sent to the Gemini API, which acts as a music analyst to produce a high-level narrative and time-stamped commentary.
 
+Example videos:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lHAu7n2WzS8/0.jpg)](https://www.youtube.com/watch?v=lHAu7n2WzS8)
+
+
 ## Features
 
 - Automated Audio Analysis: Extracts a wide range of audio features including RMS (loudness), Spectral Centroid (brightness), ZCR (noisiness), MFCCs (timbre), and a novelty curve (rhythmic changes).
