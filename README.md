@@ -33,8 +33,6 @@ Analysis of Studie No 2 - Karlheinz Stockhausen
 ## Requirements
 
 To run SAVO, you need Python installed on your system. You can install the required libraries using `pip`:
-
-```bash
 pip install pygame librosa numpy imageio pandas matplotlib google-generativeai
 
 You will also need to set up a config.py file to hold your Google Gemini API key.
