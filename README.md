@@ -6,10 +6,13 @@ The core of SAVO is its ability to combine traditional musicological analysis wi
 
 Example videos:
 
+Analysis of Klangfiguren - Gottfried Michael Koenig
 [![Analysis of Klangfiguren - Gottfried Michael Koenig](https://img.youtube.com/vi/lHAu7n2WzS8/0.jpg)](https://www.youtube.com/watch?v=lHAu7n2WzS8)
 
+Analysis of Composition No 5 - Karel Goeyvaerts
 [![Analysis of Composition No 5 - Karel Goeyvaerts](https://img.youtube.com/vi/CFVLgdTn9P0/0.jpg)](https://www.youtube.com/watch?v=CFVLgdTn9P0)
 
+Analysis of Studie No 2 - Karlheinz Stockhausen
 [![Analysis of Studie No 2 - Karlheinz Stockhausen](https://img.youtube.com/vi/yPVRTNelmrU/0.jpg)](https://www.youtube.com/watch?v=yPVRTNelmrU)
 
 
