@@ -1,0 +1,206 @@
+Quantitative Musicological Analysis Report
+Piece: Karel Goeyvaerts Composition No 5.wav
+Duration: 160.84 seconds
+Date of Analysis: 2025-08-08 08:22:47
+
+--- Global Feature Analysis (AI Interpreted) ---
+This report is based on an analysis of audio features including RMS (loudness), Spectral Centroid (brightness), ZCR (noisiness), and MFCCs (timbral qualities).
+
+Karel Goeyvaerts's Composition No 5 navigates a highly dynamic and timbrally adventurous soundscape, characteristic of atonal and non-traditional music. The overall dynamic profile (RMS) is characterized by extended periods of extreme quietude, punctuated by two significant, though brief, swells: an initial event around 10 seconds and a more substantial climax near 140 seconds. Between these louder moments, the piece explores near-silence, demanding close listening. Timbrally, the work is in constant flux. The Spectral Centroid reveals stark contrasts between very bright, high-frequency textures (especially prominent in the opening and a prolonged section from 60 to 110 seconds) and darker, richer sounds. The ZCR (noisiness) frequently spikes, particularly coinciding with the very bright, quiet sections, suggesting the presence of harsh, gritty, or percussive elements that break up sustained tones. The highly variable MFCC values further underscore this timbral instability, indicating a rapid succession of distinct sound colors, ranging from very thin and sparse to much denser and fuller, often correlating with dynamic shifts. Regarding rhythmic structure, the extreme fluctuations in all parameters, particularly the ZCR spikes and abrupt shifts in loudness and brightness, imply a non-metric or highly fluid rhythmic organization, where events emerge and recede unpredictably rather than adhering to a steady pulse. The long stretches of near-silence with internal high-frequency activity suggest a focus on evolving textures and the interplay of sonic qualities over traditional rhythmic patterns.
+
+--- Global Statistics ---
+  RMS_Energy:
+    Mean: 0.0133
+    Standard Deviation: 0.0211
+  Spectral_Centroid:
+    Mean: 1783.8443
+    Standard Deviation: 1060.4202
+  ZCR:
+    Mean: 0.0737
+    Standard Deviation: 0.0571
+  Novelty_Curve:
+    Mean: 0.6795
+    Standard Deviation: 0.4819
+
+--- Indications of Formal Boundaries ---
+### Potential Major Onsets/Changes (Novelty Curve Peaks)
+  Moments of significant spectral change or 'newness' are indicated at:
+  - 0.09 seconds
+  - 0.49 seconds
+  - 1.00 seconds
+  - 1.16 seconds
+  - 1.49 seconds
+  - 3.72 seconds
+  - 5.48 seconds
+  - 6.80 seconds
+  - 7.71 seconds
+  - 8.15 seconds
+  - 8.34 seconds
+  - 9.03 seconds
+  - 9.64 seconds
+  - 9.98 seconds
+  - 12.59 seconds
+  - 15.37 seconds
+  - 16.14 seconds
+  - 17.62 seconds
+  - 17.67 seconds
+  - 18.78 seconds
+  - 19.69 seconds
+  - 19.74 seconds
+  - 20.48 seconds
+  - 20.57 seconds
+  - 21.43 seconds
+  - 23.27 seconds
+  - 24.89 seconds
+  - 26.22 seconds
+  - 27.49 seconds
+  - 28.05 seconds
+  - 30.14 seconds
+  - 30.19 seconds
+  - 31.16 seconds
+  - 31.23 seconds
+  - 32.30 seconds
+  - 32.37 seconds
+  - 32.44 seconds
+  - 33.34 seconds
+  - 34.06 seconds
+  - 35.43 seconds
+  - 37.04 seconds
+  - 37.29 seconds
+  - 38.85 seconds
+  - 38.89 seconds
+  - 39.94 seconds
+  - 41.15 seconds
+  - 41.19 seconds
+  - 41.29 seconds
+  - 42.45 seconds
+  - 43.98 seconds
+  - 44.05 seconds
+  - 44.12 seconds
+  - 45.14 seconds
+  - 46.05 seconds
+  - 47.16 seconds
+  - 47.23 seconds
+  - 47.30 seconds
+  - 48.41 seconds
+  - 48.51 seconds
+  - 48.58 seconds
+  - 48.90 seconds
+  - 49.55 seconds
+  - 50.06 seconds
+  - 50.36 seconds
+  - 51.13 seconds
+  - 51.27 seconds
+  - 52.13 seconds
+  - 52.24 seconds
+  - 52.34 seconds
+  - 54.87 seconds
+  - 55.31 seconds
+  - 57.07 seconds
+  - 59.26 seconds
+  - 62.32 seconds
+  - 65.71 seconds
+  - 65.81 seconds
+  - 67.57 seconds
+  - 71.45 seconds
+  - 74.37 seconds
+  - 74.54 seconds
+  - 78.48 seconds
+  - 85.17 seconds
+  - 85.31 seconds
+  - 85.40 seconds
+  - 87.19 seconds
+  - 90.58 seconds
+  - 90.67 seconds
+  - 93.74 seconds
+  - 95.69 seconds
+  - 95.88 seconds
+  - 98.08 seconds
+  - 100.26 seconds
+  - 101.45 seconds
+  - 102.45 seconds
+  - 102.79 seconds
+  - 103.31 seconds
+  - 104.05 seconds
+  - 105.42 seconds
+  - 105.51 seconds
+  - 106.67 seconds
+  - 107.72 seconds
+  - 108.58 seconds
+  - 110.20 seconds
+  - 110.27 seconds
+  - 111.01 seconds
+  - 111.29 seconds
+  - 111.39 seconds
+  - 111.46 seconds
+  - 112.80 seconds
+  - 112.87 seconds
+  - 113.85 seconds
+  - 115.36 seconds
+  - 115.47 seconds
+  - 115.71 seconds
+  - 117.33 seconds
+  - 118.72 seconds
+  - 119.12 seconds
+  - 119.26 seconds
+  - 119.35 seconds
+  - 119.88 seconds
+  - 121.23 seconds
+  - 122.42 seconds
+  - 122.55 seconds
+  - 123.51 seconds
+  - 124.13 seconds
+  - 124.37 seconds
+  - 124.48 seconds
+  - 124.53 seconds
+  - 124.60 seconds
+  - 125.02 seconds
+  - 126.39 seconds
+  - 127.59 seconds
+  - 127.76 seconds
+  - 129.29 seconds
+  - 130.38 seconds
+  - 130.52 seconds
+  - 130.77 seconds
+  - 130.91 seconds
+  - 131.01 seconds
+  - 131.17 seconds
+  - 132.01 seconds
+  - 132.14 seconds
+  - 133.61 seconds
+  - 133.72 seconds
+  - 134.58 seconds
+  - 136.05 seconds
+  - 136.21 seconds
+  - 136.28 seconds
+  - 136.37 seconds
+  - 136.81 seconds
+  - 139.27 seconds
+  - 139.53 seconds
+  - 139.58 seconds
+  - 139.69 seconds
+  - 139.76 seconds
+  - 141.97 seconds
+  - 143.34 seconds
+  - 143.78 seconds
+  - 143.96 seconds
+  - 144.06 seconds
+  - 144.66 seconds
+  - 145.38 seconds
+  - 145.52 seconds
+  - 146.49 seconds
+  - 146.68 seconds
+  - 146.75 seconds
+  - 146.87 seconds
+  - 147.98 seconds
+  - 148.31 seconds
+  - 148.42 seconds
+  - 148.49 seconds
+  - 148.63 seconds
+  - 149.84 seconds
+  - 150.35 seconds
+  - 150.49 seconds
+  - 150.63 seconds
+  - 150.74 seconds
+  - 150.84 seconds
+  - 151.81 seconds
